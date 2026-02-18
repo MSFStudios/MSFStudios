@@ -97,7 +97,8 @@
 
 <section class="gallery">
     <img src="https://source.unsplash.com/600x800/?car" alt="Car Photo">
-    <img src="https://source.unsplash.com/600x800/?portrait" alt="Portrait Photo">
+    <img src="![_MG_0263](https://github.com/user-attachments/assets/ee1c1f4a-2e62-472a-bc47-7c05046a44a9)
+" alt="Portrait Photo">
     <img src="https://source.unsplash.com/600x800/?wedding" alt="Wedding Photo">
     <img src="https://source.unsplash.com/600x800/?city,night" alt="City Photo">
     <img src="https://source.unsplash.com/600x800/?nature" alt="Nature Photo">
